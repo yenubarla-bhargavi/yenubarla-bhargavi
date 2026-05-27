@@ -26,3 +26,5 @@
 ## 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/yenubarla-bhargavi)
+[YouTube](https://youtube.com/@yenubarlabhargavi4947?si=PhF6yIfvcC_sqLGG)
+
