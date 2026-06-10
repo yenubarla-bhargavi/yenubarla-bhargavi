@@ -20,6 +20,14 @@
 
 ---
 
+## 🎯 Areas of Interest
+
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-blue?style=for-the-badge)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-green?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-red?style=for-the-badge)
+![Real_Time_Systems](https://img.shields.io/badge/Real--Time_Systems-purple?style=for-the-badge)
+
 ## 📊 GitHub Stats
 
 ![Bhargavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenubarla-bhargavi&show_icons=true&theme=tokyonight)
